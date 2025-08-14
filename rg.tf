@@ -26,7 +26,7 @@ subscription_id="34a1c0d5-ab81-462c-89db-795e1572cd70"
 }
 
 variable "rgname" {
-  default = "teraformcloud2"
+  default = "teraformcloud1"
 }
 
 variable "location" {
